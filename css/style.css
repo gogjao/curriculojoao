@@ -1,0 +1,69 @@
+.foto_perfil {
+   border-radius: 100%;
+   max-width: 200px;
+   border: 1px solid black;
+}
+
+.title{
+    color: aliceblue;
+    align-items:center;
+    display: flex;
+    justify-content: space-around;
+}
+.foto{
+   align-items:center;
+   display: flex;
+   justify-content: center;
+   color: aliceblue;
+}
+.title2{
+    align-items:center;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.text{
+    align-items:center;
+    display: flex;
+    justify-content: center;
+    border:  100%;
+    max-width: 500px;
+    margin-top: 2px;
+    margin-left: 450px ;
+    border: 2px solid black;
+    color: aliceblue;
+}
+.habilit{
+    margin-top: 200px;
+    margin-left: 100px;
+    color: aliceblue;
+}
+.cont{
+    margin-top: 100px ;
+    margin-left: 100px;
+    color: aliceblue;
+    
+}
+.form{
+    margin-top: 100px ;
+    margin-left: 100px;
+    color: aliceblue;;
+}
+.cur{
+    margin-top: 100px ;
+    margin-left: 100px;
+    color: aliceblue;
+
+}
+.margem{
+    margin-top: 100px ;
+    margin-left: 100px;
+}
+body{
+  background-image: url(../assets/imagens/gg.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100vmax;
+  
+}
